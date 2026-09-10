@@ -1,3 +1,5 @@
+<img width="1482" height="887" alt="Ekran görüntüsü 2026-09-10 211442" src="https://github.com/user-attachments/assets/d77a61a2-6ce3-42a1-b998-974498b2d440" />
+<img width="1482" height="887" alt="Ekran görüntüsü 2026-09-10 211442" src="https://github.com/user-attachments/assets/62d727ef-b643-4e7c-87a6-f964b1bb1489" />
 Tabii. Bu proje için GitHub'a koyabileceğin **hazır, profesyonel ama öğrenci projesine uygun bir `README.md`** hazırladım. Projenin gerçekten kullandığı teknolojilere göre yazdım; özellikle **“local LLM”** ifadesini düzelttim çünkü kodunda embedding yerel olsa da `ChatOpenAI` ile OpenAI API kullanılıyor.
 
 # Local RAG Bot
