@@ -1,3 +1,4 @@
+[Local RAG Application.pptx](https://github.com/user-attachments/files/32104678/Local.RAG.Application.pptx)
 
 
 https://github.com/user-attachments/assets/8d79a09f-e7c4-475b-85bf-dd770eed1fd1
